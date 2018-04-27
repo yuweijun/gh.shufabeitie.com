@@ -1,15 +1,15 @@
 [submodule "唐代孙过庭"]
 	path = 唐代孙过庭
-	url = git@github.com:beitie/sunguoting.git
+	url = https://github.com/beitie/sunguoting.git
 [submodule "元代赵孟頫"]
 	path = 元代赵孟頫
-	url = git@github.com:beitie/zhaomengfu.git
+	url = https://github.com/beitie/zhaomengfu.git
 [submodule "唐代颜真卿"]
 	path = 唐代颜真卿
-	url = git@github.com:beitie/yanzhenqing.git
+	url = https://github.com/beitie/yanzhenqing.git
 [submodule "明代文徵明"]
 	path = 明代文徵明
-	url = git@github.com:beitie/wenzhenming.git
+	url = https://github.com/beitie/wenzhengming.git
 [submodule "东晋王羲之"]
 	path = 东晋王羲之
-	url = git@github.com:beitie/wangxizhi.git
+	url = https://github.com/beitie/wangxizhi.git

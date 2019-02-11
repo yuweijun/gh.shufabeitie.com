@@ -4,27 +4,12 @@
 [submodule "元代赵孟頫"]
 	path = 元代赵孟頫
 	url = https://github.com/beitie/zhaomengfu.git
-[submodule "唐代颜真卿"]
-	path = 唐代颜真卿
-	url = https://github.com/beitie/yanzhenqing.git
 [submodule "明代文徵明"]
 	path = 明代文徵明
 	url = https://github.com/beitie/wenzhengming.git
 [submodule "东晋王羲之"]
 	path = 东晋王羲之
 	url = https://github.com/beitie/wangxizhi.git
-[submodule "敦煌写经"]
-	path = 敦煌写经
-	url = https://gitlab.com/shufa/xiejing.git
-[submodule "宋代米芾"]
-	path = 宋代米芾
-	url = https://gitlab.com/shufa/mifu.git
-[submodule "魏碑墓志"]
-	path = 魏碑墓志
-	url = https://gitlab.com/shufa/weibei.git
 [submodule "唐代欧阳询"]
 	path = 唐代欧阳询
 	url = https://gitlab.com/shufa/ouyangxun.git
-[submodule "唐代柳公权"]
-	path = 唐代柳公权
-	url = https://gitlab.com/shufa/liugongquan.git
